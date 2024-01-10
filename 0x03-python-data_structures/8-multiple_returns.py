@@ -1,4 +1,3 @@
-8-multiple_returns.py
 #!/usr/bin/python3
 def multiple_returns(sentence):
     my_tuple = ()

@@ -1,4 +1,3 @@
-7-add_tuple.py
 cat > #!/usr/bin/python3
 def add_tuple(tuple_a=(), tuple_b=()):
     new_tuple = ()
