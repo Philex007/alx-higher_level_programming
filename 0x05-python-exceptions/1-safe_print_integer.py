@@ -1,4 +1,3 @@
-0-safe_print_list.py
 #!/usr/bin/python3
 
 def safe_print_integer(value):
