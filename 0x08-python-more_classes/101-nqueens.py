@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" defines a nqueens"""
+"""defines a nqueens"""
 
 import sys
 
